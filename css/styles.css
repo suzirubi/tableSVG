@@ -7,7 +7,9 @@
   margin: 0;
   padding:0;
 }
+
 body {
+  background-color: red;
   font-family: helvetica, sans-serif;
   margin: 0;
 }
